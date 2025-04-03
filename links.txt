@@ -1,4 +1,4 @@
-www.googl.com
+https://www.google.com
 https://geo.mirror.pkgbuild.com/$repo/os/$arch
 https://ftpmirror.infania.net/mirror/archlinux/$repo/os/$arch
 http://mirror.rackspace.com/archlinux/$repo/os/$arch
